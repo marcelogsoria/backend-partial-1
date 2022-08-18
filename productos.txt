@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "galletas opera",
+    "descripcion": "galletas opera por unidad",
+    "codigo": "aa223",
+    "timestamp": 1660826049235,
+    "precio": 200,
+    "foto": "https://images.com/opera",
+    "id": 1
+  },
+  {
+    "nombre": "galletas mana",
+    "descripcion": "galletas mana por unidad",
+    "codigo": "aa220",
+    "timestamp": 1660826049435,
+    "precio": 220,
+    "thumbnail": "https://images.com/mana",
+    "id": 2
+  },
+  {
+    "nombre": "galletas traviata",
+    "descripcion": "galletas Traviata por unidad",
+    "codigo": "aa221",
+    "timestamp": 1660826043234,
+    "precio": 240,
+    "thumbnail": "https://images.com/traviata",
+    "id": 3
+  }
+]

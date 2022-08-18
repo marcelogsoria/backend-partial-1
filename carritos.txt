@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1660826049235,
+    "productos": [
+      {
+        "nombre": "galletas opera",
+        "descripcion": "galletas opera por unidad",
+        "codigo": "aa223",
+        "timestamp": 1660826049235,
+        "precio": 200,
+        "foto": "https://images.com/opera",
+        "id": 1
+      },
+      {
+        "nombre": "galletas mana",
+        "descripcion": "galletas mana por unidad",
+        "codigo": "aa220",
+        "timestamp": 1660826049435,
+        "precio": 220,
+        "thumbnail": "https://images.com/mana",
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": 1660826049235,
+    "productos": [
+      {
+        "nombre": "galletas mana",
+        "descripcion": "galletas mana por unidad",
+        "codigo": "aa220",
+        "timestamp": 1660826049435,
+        "precio": 220,
+        "thumbnail": "https://images.com/mana",
+        "id": 2
+      }
+    ]
+  }
+]
